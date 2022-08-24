@@ -1,4 +1,15 @@
-# dark-mode
-Maquetación - Social Media DashBoard( Frontend Mentor) HTML-Css-JS
+# Frontend Mentor - Social Media Dashboard
 
-- https://jesherr.github.io/dark-mode/
+Maquetación - desafio de Frontend Mentor
+
+##### tecnilogias usadas
+1. Html
+2. Css
+3. js
+
+- https://dashmediasocial.netlify.app/
+
+------------
+
+
+[![](https://i.postimg.cc/FFCdcmGS/Socialmedia.png)](https://dashmediasocial.netlify.app/)
